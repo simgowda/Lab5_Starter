@@ -12,3 +12,8 @@ No, not by itself. Sending a message usually involves multiple components (UI in
 2. Would you use a unit test to test the "max message length" feature of a messaging application? Why or why not?
 
 Yes, because this is a focused rule (for example, blocking input beyond 80 characters), which is good for unit testing because it is isolated and quick to verify with true/false cases.
+
+
+## Links
+- https://simgowda.github.io/Lab5_Starter/expose.html
+- https://simgowda.github.io/Lab5_Starter/explore.html
